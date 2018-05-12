@@ -1,0 +1,30 @@
+_repo: Wednesday-the-Tenth-A-Tale-of-the-South-Pacific_43688
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43688-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: ''
+gutenberg_issued: '2013-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PR'
+- !lcsh 'South Pacific Ocean -- Fiction'
+title: Wednesday the Tenth, A Tale of the South Pacific
+url: http://www.gutenberg.org/ebooks/43688
